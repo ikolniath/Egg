@@ -1,5 +1,5 @@
 Algoritmo sin_titulo
-	definir n, n1, n6 Como Entero; Definir tablero Como Cadena
+	definir n, n1, n6, n7 Como Entero; Definir tablero Como Cadena
 	n = 9; n1 = 12
 	Dimension tablero[n,n1]
 	
